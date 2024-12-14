@@ -47,3 +47,6 @@ Disaster Recovery involves the planning and processes for restoring and recoveri
 ## Load Balancing
 
 Load Balancing is the distribution of network traffic or computing workload across multiple servers to ensure no single server is overwhelmed.
+
+## Notion Notes Link
+[Day-01](https://mangrove-gooseberry-dfb.notion.site/Day-1-15c9ffdb569880399abbc127d6b954b0?pvs=4)
